@@ -710,5 +710,172 @@
       "ingridients": null,
       "type": null
     }
+  ],
+  "contains": [
+    {
+      "id": 1,
+      "productId": 1,
+      "items": ["lac_cheese", "cheese", "nori", "rice", "sesame"]
+    },
+    {
+      "id": 2,
+      "productId": 2,
+      "items": ["cheese", "nori", "lac_rice", "sesame"]
+    },
+    {
+      "id": 3,
+      "productId": 3,
+      "items": ["cheese", "nori", "rice", "lac_sesame"]
+    },
+    {
+      "id": 4,
+      "productId": 4,
+      "items": ["cheese", "nori", "lac_rice", "lac_sesame"]
+    },
+    {
+      "id": 5,
+      "productId": 5,
+      "items": ["cheese", "nori", "lac_rice", "sesame"]
+    },
+    {
+      "id": 6,
+      "productId": 6,
+      "items": ["lac_cheese", "cheese", "nori", "lac_rice", "sesame"]
+    },
+    {
+      "id": 7,
+      "productId": 7,
+      "items": ["cheese", "nori", "lac_rice", "sesame"]
+    },
+    {
+      "id": 8,
+      "productId": 8,
+      "items": ["cheese", "nori", "lac_rice", "sesame"]
+    },
+    {
+      "id": 9,
+      "productId": 9,
+      "items": ["cheese", "nori", "lac_rice", "sesame"]
+    },
+    {
+      "id": 10,
+      "productId": 10,
+      "items": ["cheese", "nori", "lac_rice", "sesame"]
+    },
+    {
+      "id": 11,
+      "productId": 11,
+      "items": ["cheese", "nori", "lac_rice", "sesame"]
+    },
+    {
+      "id": 12,
+      "productId": 12,
+      "items": ["cheese", "nori", "lac_rice", "sesame"]
+    },
+    {
+      "id": 13,
+      "productId": 13,
+      "items": ["cheese", "nori", "lac_rice", "sesame"]
+    },
+    {
+      "id": 14,
+      "productId": 14,
+      "items": ["cheese", "nori", "lac_rice", "sesame"]
+    },
+    {
+      "id": 15,
+      "productId": 15,
+      "items": ["cheese", "nori", "lac_rice", "sesame"]
+    },
+    {
+      "id": 16,
+      "productId": 16,
+      "items": ["cheese", "nori", "lac_rice", "sesame"]
+    },
+    {
+      "id": 17,
+      "productId": 17,
+      "items": ["cheese", "nori", "lac_rice", "sesame"]
+    },
+    {
+      "id": 18,
+      "productId": 18,
+      "items": ["cheese", "nori", "lac_rice", "sesame"]
+    },
+    {
+      "id": 19,
+      "productId": 19,
+      "items": ["cheese", "nori", "lac_rice", "sesame"]
+    },
+    {
+      "id": 20,
+      "productId": 20,
+      "items": ["cheese", "nori", "lac_rice", "sesame"]
+    },
+    {
+      "id": 21,
+      "productId": 21,
+      "items": ["cheese", "nori", "lac_rice", "sesame"]
+    },
+    {
+      "id": 22,
+      "productId": 22,
+      "items": ["cheese", "nori", "lac_rice", "sesame"]
+    },
+    {
+      "id": 23,
+      "productId": 23,
+      "items": ["cheese", "nori", "lac_rice", "sesame"]
+    },
+    {
+      "id": 24,
+      "productId": 24,
+      "items": ["cheese", "nori", "lac_rice", "sesame"]
+    },
+    {
+      "id": 25,
+      "productId": 25,
+      "items": ["cheese", "nori", "lac_rice", "sesame"]
+    },
+    {
+      "id": 26,
+      "productId": 26,
+      "items": ["cheese", "nori", "lac_rice", "sesame"]
+    },
+    {
+      "id": 26,
+      "productId": 26,
+      "items": ["cheese", "nori", "lac_rice", "sesame"]
+    },
+    {
+      "id": 27,
+      "productId": 27,
+      "items": ["cheese", "nori", "lac_rice", "sesame"]
+    },
+    {
+      "id": 28,
+      "productId": 28,
+      "items": ["cheese", "nori", "lac_rice", "sesame"]
+    },
+    {
+      "id": 29,
+      "productId": 29,
+      "items": ["cheese", "nori", "lac_rice", "sesame"]
+    },
+    {
+      "id": 30,
+      "productId": 30,
+      "items": ["cheese", "nori", "lac_rice", "sesame"]
+    },
+    {
+      "id": 31,
+      "productId": 31,
+      "items": ["cheese", "nori", "lac_rice", "sesame"]
+    },
+    {
+      "id": 32,
+      "productId": 32,
+      "items": ["cheese", "nori", "lac_rice", "sesame"]
+    }
   ]
 }
